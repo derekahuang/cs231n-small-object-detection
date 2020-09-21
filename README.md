@@ -1,2 +1,3 @@
 # cs231n-small-object-detection
-owo
+![poster](https://github.com/derekahuang/cs231n-small-object-detection/blob/master/poster.png)
+
